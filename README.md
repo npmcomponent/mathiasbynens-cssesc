@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [mathiasbynens/cssesc](http://github.com/mathiasbynens/cssesc). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/mathiasbynens-cssesc`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # cssesc [![Build status](https://travis-ci.org/mathiasbynens/cssesc.svg?branch=master)](https://travis-ci.org/mathiasbynens/cssesc) [![Dependency status](https://gemnasium.com/mathiasbynens/cssesc.svg)](https://gemnasium.com/mathiasbynens/cssesc)
 
 A JavaScript library for escaping CSS strings and identifiers while generating the shortest possible ASCII-only output.
